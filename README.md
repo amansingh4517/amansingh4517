@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aman Singh!
 
-Welcome to my GitHub profile! I'm a recent high school graduate gearing up for college this year.
+Welcome to my GitHub profile! I'm a 12th passed gearing up for college this year.
 
 
 
