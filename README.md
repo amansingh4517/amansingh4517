@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a 12th passed gearing up for college this year
 
 ## 🌱 I'm Currently Learning:
 
-- Web Development with a focus on JavaScript, React
+- Learning Java , DSA(using python)
 
 ## 👯 I'm Looking To Collaborate On:
 
@@ -32,7 +32,6 @@ Exciting web development projects! If you have something interesting in mind, fe
 ## 💬 Ask Me About:
 
 - Python
-- JavaScript
 
 ## ⚡ Fun Fact:
 
