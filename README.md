@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a B-Tech(AI) student.
 
 ## 🌱 I'm Currently Learning:
 
-- Learning Java , DSA(using python)
+- Learning DSA (Java)
 
 ## 👯 I'm Looking To Collaborate On:
 
@@ -27,7 +27,7 @@ Exciting web development projects! If you have something interesting in mind, fe
 
 ## 📫 How To Reach Me:
 
-- [Twitter](https://twitter.com/AmanSingh4517)
+- [Linkedin](www.linkedin.com/in/aman-singh4545)
 
 ## 💬 Ask Me About:
 
