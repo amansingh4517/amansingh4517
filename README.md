@@ -61,6 +61,12 @@ I'm a **B.Tech (Artificial Intelligence)** student passionate about building imp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL - Relational Database" alt="MySQL" />
 </p>
 
+---
+
+### 🧩 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/amansingh4517?theme=dark&font=Ubuntu)
+
 
 ---
 
